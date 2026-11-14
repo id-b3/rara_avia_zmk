@@ -1,0 +1,6 @@
+if SHIELD_RARA_AVIA
+
+config ZMK_KEYBOARD_NAME
+    default "rara_avia"
+
+endif # SHIELD_RARA_AVIA
